@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(158, 157, 157);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    text-align: center;
+    padding-bottom: 15px;
+}
+.seção{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95vw;
+    height: 95vh;
+}
+.login{
+    background-color: rgba(129, 212, 233, 0.849);
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 19px;
+    padding: 5px 10px;
+    color: rgba(0, 0, 0, 0.678);
+}
+input{
+    margin-bottom: 10px;
+    width: 220px;
+    height: 30px;
+    border-radius: 20px;
+    border: solid 3.5px;
+    border-right-color: green;
+    border-left-color: blue;
+    border-top-color: green;
+    border-bottom-color: blue;
+}
+input:hover{
+    transition: 0.2s;
+    border-right-color: blue;
+    border-left-color: green;
+    border-top-color: blue;
+    border-bottom-color: green;
+}
+button{
+    margin: 8px;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(67, 67, 199);
+    color: white;
+}
+a{
+    color: white;
+}
+a:link, a:visited{
+    color: rgb(0, 0, 0);
+}
+a:hover, a:active{
+    color: rgb(158, 157, 157);
+}

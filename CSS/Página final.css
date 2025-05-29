@@ -1,0 +1,36 @@
+.carousel{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.carousel img{
+    width: 50%;
+}
+body{
+    background-image: radial-gradient(rgb(0, 255, 76), rgb(11, 124, 11));
+    background-attachment: fixed;
+    background-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+}
+p{
+    text-align: center;
+}
+select{
+    background-color: rgba(214, 214, 214, 0.842);
+    border: 0px;
+}
+button{
+    background-color: rgba(214, 214, 214, 0.842);
+    border: 2px solid black;
+}
+button:hover{
+    background-color: rgba(29, 121, 29, 0.795);
+    color: white;
+}
+form button{
+    border-radius: 13px;
+}
