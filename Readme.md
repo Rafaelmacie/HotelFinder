@@ -1,5 +1,10 @@
+## HotelFinder
+
+
+# Introdução
 Este é um site desenvolvido com HTML e CSS para um trabalho avaliativo do curso de Análise e Desenvolvimento de Sistemas (ADS). Foram utilizadas diversas habilidades, incluindo:
 
+# Tecnologias utilizadas
 - Figma, para localizar as coordenadas dos estados na imagem do mapa do Brasil utilizada no site;
 - Bootstrap, para a criação das seções de imagens ao selecionar os hotéis;
 - Uso de Inteligência Artificial, para a listagem das cidades de cada estado e melhoria da resolução das imagens;
